@@ -11,7 +11,9 @@
             double secondNumber = inputConverter.ConvertInputToNumeric(Console.ReadLine());
             string operation = Console.ReadLine();
 
+            double result = calculatorEngine.Calculate(operation, firstNumber, secondNumber);
 
+            Console.WriteLine(result);
         }
     }
 
