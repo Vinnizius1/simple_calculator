@@ -1,0 +1,15 @@
+A:\dev\Udemy\Learn C# By Building Applications\Seção 2 - Simple Calculator\simpleCalculator\bin\Debug\net7.0\simpleCalculator.exe
+A:\dev\Udemy\Learn C# By Building Applications\Seção 2 - Simple Calculator\simpleCalculator\bin\Debug\net7.0\simpleCalculator.deps.json
+A:\dev\Udemy\Learn C# By Building Applications\Seção 2 - Simple Calculator\simpleCalculator\bin\Debug\net7.0\simpleCalculator.runtimeconfig.json
+A:\dev\Udemy\Learn C# By Building Applications\Seção 2 - Simple Calculator\simpleCalculator\bin\Debug\net7.0\simpleCalculator.dll
+A:\dev\Udemy\Learn C# By Building Applications\Seção 2 - Simple Calculator\simpleCalculator\bin\Debug\net7.0\simpleCalculator.pdb
+A:\dev\Udemy\Learn C# By Building Applications\Seção 2 - Simple Calculator\simpleCalculator\obj\Debug\net7.0\simpleCalculator.csproj.AssemblyReference.cache
+A:\dev\Udemy\Learn C# By Building Applications\Seção 2 - Simple Calculator\simpleCalculator\obj\Debug\net7.0\simpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+A:\dev\Udemy\Learn C# By Building Applications\Seção 2 - Simple Calculator\simpleCalculator\obj\Debug\net7.0\simpleCalculator.AssemblyInfoInputs.cache
+A:\dev\Udemy\Learn C# By Building Applications\Seção 2 - Simple Calculator\simpleCalculator\obj\Debug\net7.0\simpleCalculator.AssemblyInfo.cs
+A:\dev\Udemy\Learn C# By Building Applications\Seção 2 - Simple Calculator\simpleCalculator\obj\Debug\net7.0\simpleCalculator.csproj.CoreCompileInputs.cache
+A:\dev\Udemy\Learn C# By Building Applications\Seção 2 - Simple Calculator\simpleCalculator\obj\Debug\net7.0\simpleCalculator.dll
+A:\dev\Udemy\Learn C# By Building Applications\Seção 2 - Simple Calculator\simpleCalculator\obj\Debug\net7.0\refint\simpleCalculator.dll
+A:\dev\Udemy\Learn C# By Building Applications\Seção 2 - Simple Calculator\simpleCalculator\obj\Debug\net7.0\simpleCalculator.pdb
+A:\dev\Udemy\Learn C# By Building Applications\Seção 2 - Simple Calculator\simpleCalculator\obj\Debug\net7.0\simpleCalculator.genruntimeconfig.cache
+A:\dev\Udemy\Learn C# By Building Applications\Seção 2 - Simple Calculator\simpleCalculator\obj\Debug\net7.0\ref\simpleCalculator.dll
